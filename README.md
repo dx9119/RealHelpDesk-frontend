@@ -1,2 +1,2 @@
-# -RealHelpDesk-frontend
-Собрал  frontend на react для RealHelpDesk.
+# RealHelpDesk-frontend
+Эксперемент по сборки фронта средствами ИИ (React). Компоненты реакта генерировались через ИИ мелкими частями.
