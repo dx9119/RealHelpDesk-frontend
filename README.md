@@ -5,7 +5,7 @@
 
 Содержит переиспользуемые UI-компоненты, сгруппированные по функциональным областям:
 
-- **auth** — компоненты для аутентификации:
+- **auth** — компоненты для аутентификации, регистрации:
     - `LoginForm.jsx`
     - `Logout.jsx`
     - `RegisterForm.jsx`
@@ -13,7 +13,7 @@
 - **captcha** — отображение капчи:
     - `CaptchaViewer.jsx`
 
-- **email** — управление email-уведомлениями и верификацией:
+- **email** — управление email-уведомлениями:
     - `EmailNotificationInfo.jsx`
     - `EmailNotificationPolicy.jsx`
     - `EmailNotificationSettings.jsx`
@@ -21,10 +21,10 @@
     - `EmailVerification.js`
     - `NotificationSettings.js`
 
-- **help** — справочная система:
+- **help** — поиск по заявкам:
     - `SearchHelp.jsx`
 
-- **message** — работа с сообщениями тикетов:
+- **message** — работа с сообщениями:
     - `MessagesList.jsx`
     - `TicketMessageForm.jsx`
 
@@ -58,7 +58,7 @@
 
 ## pages
 
-Страницы приложения, включая основные и служебные:
+Страницы приложения:
 
 - Основные страницы:
     - `CreateTicketPage.jsx`
